@@ -1,2 +1,2 @@
 # MyAndroidDemoProjects
-Project sets for learning and validation, separated by folders.
+Project sets for learning and validation, separated by branches.
